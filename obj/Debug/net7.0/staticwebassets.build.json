@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "E6WcALFmdyBUt5op2pyebEdRzc3j7UltStUxU5fU0w0=",
+  "Source": "FirstMicroService",
+  "BasePath": "_content/FirstMicroService",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
